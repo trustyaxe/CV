@@ -1,0 +1,28 @@
+body {
+    background-color: #eaf6f6;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #0c8d8d;
+    border-width: 5px;
+    width: 8%;
+}
+
+h1  {
+    color: #66bcbf;
+    font-family: Goudy Old Style, fantasy;
+    font-weight: 600;
+}
+
+h3{
+    color: #66bfbf;
+    font-family: Papyrus;
+}
+
+img {
+    border-radius: 50%;
+    width: 250px;
+    border: 5px solid #058359;
+}
